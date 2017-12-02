@@ -4,8 +4,10 @@ class Outer {
     int outer_x = 100;
     void test() {
         for(int i=0; i<10; i++) {
+            outer_x = i;
             class Inner {
                 void display() {
+
                     System.out.println("display: outer_x = " + outer_x);
                 }
             }
@@ -13,5 +15,6 @@ class Outer {
             inner.display();
         }
     }
+
 }
 

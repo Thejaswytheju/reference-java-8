@@ -1,6 +1,5 @@
 package com.theja.chap1.ex.java;
 
-import static jdk.nashorn.internal.runtime.regexp.joni.constants.AsmConstants.S;
 
 public class BlockTest {
     public static void main(String args[]){

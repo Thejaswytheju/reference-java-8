@@ -1,4 +1,4 @@
-package com.theja.chap.ex.java;
+package com.theja.chap5.ex.java;
 
 import com.theja.chap5.ex.java.Derived;
 import com.theja.chap5.ex.java.Protection;

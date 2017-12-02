@@ -1,5 +1,6 @@
 package com.theja.chap4.ex.java;
 
+
 public class ATest {
     public static void main(String args[]){
         A superObj = new A();
